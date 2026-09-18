@@ -9,6 +9,8 @@ This repository contains an easy-to-use Google Colab notebook for running **Z-Im
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salman02-12/Z-Image-Turbo-with-LoRA-in-Google-Colab/blob/main/Z_Image_Turbo_CoinNoin.ipynb)
 
 ---
+<img src="./thumbnail.png" width="100%" />
+
 
 ## ✨ Features Supported in this Notebook
 
